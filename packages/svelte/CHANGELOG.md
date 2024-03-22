@@ -1,5 +1,11 @@
 # svelte
 
+## 5.0.0-next.82
+
+### Patch Changes
+
+- breaking: apply fallback value every time in runes mode ([#10797](https://github.com/sveltejs/svelte/pull/10797))
+
 ## 5.0.0-next.81
 
 ### Patch Changes
